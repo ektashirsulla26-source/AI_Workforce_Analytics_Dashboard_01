@@ -7,11 +7,6 @@ The Tableau dashboard provides insights into **salary trends, demand by roles, t
 
 ---
 
-## 🔹 Dashboard Preview
-![Dashboard Screenshot](Tableau_dashboard.jpg)
-
----
-
 ## 🔹 Key Insights
 - **Average Salary (USD):** $115,349  
 - **Remote Jobs:** 32.8%  
