@@ -35,7 +35,7 @@ The Tableau dashboard provides insights into **salary trends, demand by roles, t
 
 ## 🔹 Tools & Technologies
 - **Data Visualization:** Tableau Desktop (Public Edition)  
-- **Data Cleaning & Analysis:** Python (Pandas, NumPy) *(if data cleaning done before Tableau)*  
+- **Data Cleaning & Analysis:** Python (Pandas, NumPy) *(data cleaning done before Tableau)*  
 - **Version Control:** GitHub  
 
 ---
